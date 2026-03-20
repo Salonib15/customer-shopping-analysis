@@ -57,7 +57,7 @@ The dataset contains roughly 99,000 transaction records across 10 columns includ
    pip install pandas numpy matplotlib seaborn
    ```
 3. Place the dataset at `Assignment_/customer_shopping_data.csv`
-4. Open and run `A1.ipynb` in Jupyter Notebook or JupyterLab
+4. Open and run `DIBS.ipynb` in Jupyter Notebook or JupyterLab
 
 ---
 
