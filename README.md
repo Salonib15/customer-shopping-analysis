@@ -80,6 +80,3 @@ The dataset contains roughly 99,000 transaction records across 10 columns includ
 
 ---
 
-## Acknowledgement
-
-GAITs (e.g., ChatGPT) were used for drafting and proofreading only, in line with assignment instructions.
