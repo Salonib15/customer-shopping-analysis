@@ -1,8 +1,4 @@
-Data Analysis for Dibs
-
-**Student:** Saloni Borwankar  
-**Student ID:** 48120901  
-**Unit:** Techniques in Business Analytics
+## Data Analysis for Dibs
 
 ---
 
