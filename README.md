@@ -1,4 +1,4 @@
-# BUSA8000 – Assessment 01: Data Analysis for Dibs
+Data Analysis for Dibs
 
 **Student:** Saloni Borwankar  
 **Student ID:** 48120901  
